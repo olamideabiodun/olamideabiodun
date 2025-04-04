@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,3,19,20,22&text=Building%20Tomorrow's%20Technology&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20|%20EdTech%20Pioneer%20|%20Python%20Expert&descSize=20&descAlignY=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Olamide;AI+Algorithm+Architect;Python+Expert+from+Cyprus;EdTech+Innovator;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Olamide;AI+Algorithm+Architect;Python+Expert+from+Nigeria;EdTech+Innovator;Let's+build+something+amazing!)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://twitter.com/Mide_abiodun99" target="_blank">
