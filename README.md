@@ -2,9 +2,9 @@
   
 # ✨ OLAMIDE ABIODUN ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,3,19,20,22&text=Building%20Tomorrow's%20Technology&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20|%20EdTech%20Pioneer%20|%20Python%20Expert&descSize=20&descAlignY=60&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,3,19,20,22&text=Building%20Tomorrow's%20Technology&animation=fadeIn&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Javascript%20developer%20|%20EdTech%20Pioneer%20|%20Python%20developer&descSize=20&descAlignY=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Olamide;AI+Engineer;Python+Expert+from+Nigeria;EdTech+Innovator;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=8250DF&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Olamide;Javascript+Developer;Python+developer+from+Nigeria;EdTech+Innovator;Let's+build+something+amazing!)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://twitter.com/Mide_abiodun99" target="_blank">
@@ -36,7 +36,6 @@ class PythonWizard:
         self.name = "Olamide Abiodun"
         self.base = "Cyprus 🇨🇾"
         self.languages = ["Python", "JavaScript", "C", "Bash"]
-        self.specialties = ["AI Algorithms", "System Engineering", "EdTech"]
         
     def say_hello(self):
         print("Welcome to my digital universe!")
@@ -44,10 +43,8 @@ class PythonWizard:
 
 <br>
 
-- 🚀 Currently building **revolutionary AI algorithms & EdTech platforms**
+- 🚀 Currently building **ednux.com**
 - 🔬 Researching **deep learning applications in educational technology**
-- 💡 Looking to collaborate on **Python-based AI projects that change lives**
-- 💬 Ask me about **Python, EdTech, AI Ethics & Software Engineering**
 - 🌍 On a mission to **make quality education accessible worldwide**
 - ⚡ Fun fact: **I can debug code faster than I can solve a Rubik's cube**
 
@@ -98,15 +95,6 @@ class PythonWizard:
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   </p>
   
-  <h3>Data Science & AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  </p>
-  
   <h3>DevOps & Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -123,19 +111,6 @@ class PythonWizard:
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   </p>
 </div>
-
-<!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/olamideabiodun/AirBnB_clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olamideabiodun&repo=AirBnB_clone&theme=radical&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/olamideabiodun/alx-system_engineering-devops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=olamideabiodun&repo=alx-system_engineering-devops&theme=radical&hide_border=true&border_radius=12" />
-  </a>
-</div>
-
 <div align="center">
   <a href="https://github.com/olamideabiodun/simple_shell">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=olamideabiodun&repo=simple_shell&theme=radical&hide_border=true&border_radius=12" />
@@ -144,47 +119,6 @@ class PythonWizard:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=olamideabiodun&repo=The_SpacE&theme=radical&hide_border=true&border_radius=12" />
   </a>
 </div>
-
-<!-- Current Projects Section -->
-<h2 align="center">🔭 Current Projects</h2>
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎓 NextGen EdTech Platform</h3>
-        <a href="#">
-          <img src="https://user-images.githubusercontent.com/74038190/238200431-3c16d4f0-9560-4870-9452-397a71538739.gif" width="300" alt="EdTech Platform" />
-        </a>
-        <p>
-          <a href="https://github.com/olamideabiodun">
-            <img src="https://img.shields.io/badge/View_Code-4B49AC?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Live_Demo-6F3AF2?style=for-the-badge&logo=netlify&logoColor=white" />
-          </a>
-        </p>
-        <p><strong>A revolutionary platform democratizing education through AI-driven personalized learning experiences.</strong></p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🧠 AI Research Lab</h3>
-        <a href="#">
-          <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="300" alt="AI Research" />
-        </a>
-        <p>
-          <a href="https://github.com/olamideabiodun">
-            <img src="https://img.shields.io/badge/View_Code-4B49AC?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <a href="#">
-            <img src="https://img.shields.io/badge/Research_Paper-6F3AF2?style=for-the-badge&logo=arxiv&logoColor=white" />
-          </a>
-        </p>
-        <p><strong>Pioneering research into novel machine learning algorithms with applications in education and healthcare.</strong></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <!-- Connect Section -->
 <h2 align="center">📫 Connect With Me</h2>
 
